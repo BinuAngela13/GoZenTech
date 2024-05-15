@@ -1,0 +1,13 @@
+.body{
+    margin: 40px
+}
+
+.button{
+    height: 40px;
+    width: 150px;
+    padding: 3px;
+    cursor: pointer;
+    margin: 20px;
+    border-radius: 5px;
+    
+}

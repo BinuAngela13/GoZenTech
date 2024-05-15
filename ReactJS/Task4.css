@@ -1,0 +1,23 @@
+.form{
+    margin: 40px;
+}
+
+.label{
+    font-size: 20px;
+    padding: 5px;
+}
+
+.input{
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.div{
+    margin: 10px;
+}
+.button{
+    height: 40px;
+    width: 100px;
+    margin: 10px;
+    
+}
